@@ -1,0 +1,1 @@
+Initially, when the constructor runs the first and only time, it pushes the deployer's address into admin list . From there on admins can be added via addadmn by other admins via pushing addresses into admin list. isadmn checks if an address belongs on that roster. 
